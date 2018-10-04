@@ -19,27 +19,27 @@ body
 
 .container .section:nth-child(1)
 {
-    background: url('../img/background-1.jpg');
+    background: url('../img/background-1-min.jpg');
     background-size: cover;
 }
 
 .container .section:nth-child(2)
 {
-    background: url('../img/background-2.jpg');
+    background: url('../img/background-2-min.jpg');
     background-size: cover;
 }
 .container .section:nth-child(3)
 {
-    background: url('../img/background-3.jpg');
+    background: url('../img/background-3-min.jpg');
     background-size: cover;
 }
 .container .section:nth-child(4)
 {
-    background: url('../img/background-4.jpg');
+    background: url('../img/background-4-min.jpg');
     background-size: cover;
 }
 .container .section:nth-child(5)
 {
-    background: url('../img/background-5.jpg');
+    background: url('../img/background-5-min.jpg');
     background-size: cover;
 }
